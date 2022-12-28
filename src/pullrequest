@@ -1,0 +1,13 @@
+monday morning
+you are starting to fix a new bug
+steps;
+1- you nneed to work with latest code, thats why we ned to be in the main masster brach
+2- you need t o pull to get latest code from server to your laptop
+now i have the lasest code so i can start to work
+3- create a new branch. git=> new bracnh and give a name a meaningful and click vreate
+so on bottom right i should see the new bracnh bame
+4- im gona do some changes and ill fix the bug
+when we finish we weill commit and  push out changes to github
+6- we need creeate a puill request
+someone need to apporver my pull request so i can merge my changes
+as soon as we merge our changes it wil bvbe inthe main bracnh
